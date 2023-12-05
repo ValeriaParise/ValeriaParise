@@ -13,8 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/valeria-parise-7a90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeria-parise-7a90" height="30" width="30" /></a>
 <a href="mailto:parisevaleria@gmail.com">
-<img align="left" alt="Piyush Pravin | Gmail" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
-</a>
+<img alt="Piyush Pravin | Gmail" width="30px" align="center" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" /></a>
 <a href="https://fb.com/parisevaleria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parisevaleria" height="30" width="30" /></a>
 <a href="https://instagram.com/_.airela.v._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.airela.v._" height="30" width="30" /></a>
 </p>
