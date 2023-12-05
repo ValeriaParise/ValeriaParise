@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valeria</h1>
 <h3 align="center">A back-end developer from Italy</h3>
 
-<h2 align="left">About me</h2>
+<h2 align="left">⭐️ About me</h2>
 
 - 📚 I’m currently learning **Framework Spring**
 
@@ -9,10 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ValeriaParise](github.com/ValeriaParise)
   
-- 🎯 Goals: Learn more!
+- 🎓 Physics of Materials Degree
+  
+- 🎯 Goals: Learn more about front-end web developer!
 
   
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left"> 💻 Languages and Tools:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -34,7 +36,7 @@
 </div>
 
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">  🤝🏻 Connect with me</h2>
 <div align="left">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/><a href="https://linkedin.com/in/valeria-parise-7a90" target="blank"></a>
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/><a href="mailto:parisevaleria@gmail.com"target="blank"></a>
@@ -46,6 +48,6 @@
 
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeriaparise&show_icons=true&locale=en&layout=compact" alt="valeriaparise" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeriaparise&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"&locale=en&layout=compact" alt="valeriaparise" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valeriaparise&show_icons=true&locale=en" alt="valeriaparise" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valeriaparise&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"&locale=en&layout=compact& locale=en" alt="valeriaparise" /></p>
