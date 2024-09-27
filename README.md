@@ -34,11 +34,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" height="40" alt="js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40" alt="js logo" />
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" height="40" alt="js logo" />
   <img width="12" />
 </div>
 
