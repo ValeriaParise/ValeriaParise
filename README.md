@@ -88,8 +88,11 @@ Passionate about coding, technology, and building practical solutions to real-wo
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tuo_username)
 -->
 </div>
+<br>
+
 
 <h3 align = "center" > Thanks for visiting my profile! 🚀 </h3>
+<br>
 
 <!-- 
 ###
