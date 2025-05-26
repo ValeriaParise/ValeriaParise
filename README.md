@@ -60,25 +60,28 @@ Passionate about coding, technology, and building practical solutions to real-wo
 
 
 
-<h2 align="left">  🤝🏻 Connect with me</h2>
+<!-- <h2 align="left">  🤝🏻 Connect with me</h2> -->
 <div align="center">
 <a href="https://www.linkedin.com/in/valeria-parise-7a90/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo"/></a>
 <a href="mailto:parisevaleria.dev@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="30" alt="gmail logo"/></a>
 <a href = "https://discordapp.com/users/590842588601384977/" target = "blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="30" alt="discord logo"/></a>
 <a href = "https://msng.link/o?valeriap_07=tg" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="30" alt="telegram logo"/></a>
 
+
+<!-- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-parise-7a90/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuamail@example.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/tuo_discord_id)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tuo_username)
-
+-->
 </div>
 
+<h3 align = "center" > Thanks for visiting my profile! 🚀 </h3>
 
+<!-- 
 ###
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeriaparise&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"&locale=en&layout=compact" alt="valeriaparise" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valeriaparise&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"&locale=en&layout=compact& locale=en" alt="valeriaparise" /></p>
+-->
 
 
-Thanks for visiting my profile! 🚀
