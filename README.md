@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there , I'm Valeria</h1>
-<h3 align="center">I'm currently studying at **ITC Cadmo** as a **Developer 4.0** student.  
+<h3 align="center">I'm currently studying at **ITS Cadmo** as a **Developer 4.0** student.  
 Passionate about coding, technology, and building practical solutions to real-world problems.</h3>
 
 <h2 align = "left"> 🧠 What I'm Learning </h2>
@@ -15,7 +15,8 @@ Passionate about coding, technology, and building practical solutions to real-wo
 - Contribute to open-source when possible  
 - Keep learning and experimenting with new tech
 
-### 💼 Projects
+<h2 align ="left"> 💼 Projects </h2>
+
 
 <h2 align="left">⭐️ About me</h2>
 - 📚  I'm currently studing at ITS Cadmo - Developer 4.0
