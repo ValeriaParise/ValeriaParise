@@ -3,6 +3,7 @@
 Passionate about coding, technology, and building practical solutions to real-world problems.</h3>
 
 <h2 align = "left"> 🧠 What I'm Learning </h2>
+
 - Full-stack development fundamentals  
 
 - Object-oriented programming with C#
@@ -15,15 +16,21 @@ Passionate about coding, technology, and building practical solutions to real-wo
   
 
 <h2 align ="left"> 🌱 Current Goals </h2>
-- Improve my skills in backend and database development  
-- Build real-world projects  
-- Contribute to open-source when possible  
+
+- Improve my skills in backend and database development
+    
+- Build real-world projects
+  
+- Contribute to open-source when possible
+   
 - Keep learning and experimenting with new tech
+  
 
 <h2 align ="left"> 💼 Projects </h2>
 
 
 <h2 align="left">⭐️ About me</h2>
+
 - 📚  I'm currently studing at ITS Cadmo - Developer 4.0
 
 - 👨‍💻 All of my projects are available at [github.com/ValeriaParise](github.com/ValeriaParise)
@@ -31,6 +38,7 @@ Passionate about coding, technology, and building practical solutions to real-wo
 - 🎓 Physics of Materials Degree
   
 -📍 Based in **Italy** 🇮🇹
+
   
   
 <h2 align="left"> 💻 Languages and Tools:</h2>
