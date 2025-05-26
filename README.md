@@ -37,7 +37,7 @@ Passionate about coding, technology, and building practical solutions to real-wo
   
 - 🎓 Physics of Materials Degree
   
--📍 Based in **Italy** 🇮🇹
+- 📍 Based in **Italy** 🇮🇹
 
   
   
