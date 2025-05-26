@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I'm Valeria</h1>
-<h3 align="center">A back-end developer from Italy</h3>
+<h1 align="center">👋 Hi there , I'm Valeria</h1>
+<h3 align="center">I'm currently studying at **ITC Cadmo** as a **Developer 4.0** student.  
+Passionate about coding, technology, and building practical solutions to real-world problems.</h3>
+
+<h2 align = "left"> 🧠 What I'm Learning </h2>
+- Full-stack development fundamentals  
+- Object-oriented programming with C#
+- Web technologies (HTML, CSS, JavaScript)  
+- Backend development with Java
+- Databases and SQL
+
+<h2 align ="left"> 🌱 Current Goals </h2>
+- Improve my skills in backend and database development  
+- Build real-world projects  
+- Contribute to open-source when possible  
+- Keep learning and experimenting with new tech
+
+### 💼 Projects
 
 <h2 align="left">⭐️ About me</h2>
-
-- 📚 I’m currently learning **Framework Spring**
-
-- 👯 I’m looking to collaborate on [Team2-Magazzino](https://github.com/Fabio-Frau/Team2-Magazzino)
+- 📚  I'm currently studing at ITS Cadmo - Developer 4.0
 
 - 👨‍💻 All of my projects are available at [github.com/ValeriaParise](github.com/ValeriaParise)
   
 - 🎓 Physics of Materials Degree
   
-- 🎯 Goals: Learn more about front-end web developer!
-
+-📍 Based in **Italy** 🇮🇹
+  
   
 <h2 align="left"> 💻 Languages and Tools:</h2>
 <div align="left">
@@ -58,3 +71,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeriaparise&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"&locale=en&layout=compact" alt="valeriaparise" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valeriaparise&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"&locale=en&layout=compact& locale=en" alt="valeriaparise" /></p>
+
+
+Thanks for visiting my profile! 🚀
