@@ -44,6 +44,8 @@ Passionate about coding, technology, and building practical solutions to real-wo
 
 - 📚  I'm currently studing at ITS Cadmo - Developer 4.0
 
+- 🎓 I also completed the Java Backend course at Develhope
+
 - 👨‍💻 All of my projects are available at [github.com/ValeriaParise](github.com/ValeriaParise)
   
 - 🎓 Physics of Materials Degree
