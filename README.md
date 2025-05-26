@@ -4,10 +4,15 @@ Passionate about coding, technology, and building practical solutions to real-wo
 
 <h2 align = "left"> 🧠 What I'm Learning </h2>
 - Full-stack development fundamentals  
+
 - Object-oriented programming with C#
-- Web technologies (HTML, CSS, JavaScript)  
+  
+- Web technologies (HTML, CSS, JavaScript)
+   
 - Backend development with Java
+  
 - Databases and SQL
+  
 
 <h2 align ="left"> 🌱 Current Goals </h2>
 - Improve my skills in backend and database development  
