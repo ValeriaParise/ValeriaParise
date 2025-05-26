@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi there , I'm Valeria</h1>
 
-
+<br>
 <h3 align="center">I'm currently studying at ITS Cadmo as a Developer 4.0 student.  
 Passionate about coding, technology, and building practical solutions to real-world problems.</h3>
+<br>
 
 
 
@@ -18,6 +19,7 @@ Passionate about coding, technology, and building practical solutions to real-wo
   
 - Databases and SQL
   
+<br>
 
 
 <h2 align ="left"> 🌱 Current Goals </h2>
@@ -30,9 +32,12 @@ Passionate about coding, technology, and building practical solutions to real-wo
    
 - Keep learning and experimenting with new tech
   
-<!-- 
+<!--
+<br>
 <h2 align ="left"> 💼 Projects </h2>
 -->
+<br>
+
 
 
 <h2 align="left">⭐️ About me</h2>
@@ -46,7 +51,8 @@ Passionate about coding, technology, and building practical solutions to real-wo
 - 📍 Based in **Italy** 🇮🇹
 
   
-  
+  <br>
+
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -64,6 +70,7 @@ Passionate about coding, technology, and building practical solutions to real-wo
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
 
 
 <!-- <h2 align="left">  🤝🏻 Connect with me</h2> -->
