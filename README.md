@@ -42,6 +42,7 @@ Passionate about coding, technology, and building practical solutions to real-wo
   
   
 <h2 align="left"> 💻 Languages and Tools:</h2>
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
