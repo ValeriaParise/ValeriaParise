@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi there , I'm Valeria</h1>
-###
-<h3 align="left">I'm currently studying at ITS Cadmo as a Developer 4.0 student.  
+
+
+<h3 align="center">I'm currently studying at ITS Cadmo as a Developer 4.0 student.  
 Passionate about coding, technology, and building practical solutions to real-world problems.</h3>
-###
+
+
 
 <h2 align = "left"> 🧠 What I'm Learning </h2>
 
@@ -17,6 +19,7 @@ Passionate about coding, technology, and building practical solutions to real-wo
 - Databases and SQL
   
 
+
 <h2 align ="left"> 🌱 Current Goals </h2>
 
 - Improve my skills in backend and database development
@@ -30,6 +33,7 @@ Passionate about coding, technology, and building practical solutions to real-wo
 <!-- 
 <h2 align ="left"> 💼 Projects </h2>
 -->
+
 
 <h2 align="left">⭐️ About me</h2>
 
