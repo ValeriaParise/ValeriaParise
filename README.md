@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/valeria-parise-7a90/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"/></a>
   <a href="mailto:parisevaleria.dev@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"/></a>
 
-[![Download CV](https://img.shields.io/badge/Download-Curriculum_Vitae_PDF-2b6cb0?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./CV_Valeria_Parise.pdf)
-
----
 </p>
 
 
@@ -20,7 +17,11 @@
 - 🎓 **Background:** Degree in **Physics of Materials** – which trained my mind for complex problem-solving, advanced mathematics, and data analysis.
 - 🚀 **Education:** Graduated from **ITS Academy Cadmo (Developer 4.0)** and completed the intensive Java Backend course at **Develhope**.
 - 💡 **Focus:** Building scalable backend architectures, designing efficient microservices, and exploring the worlds of Machine Learning & Deep Learning models for real-world impact.
-- 📍 Based in **Cosenza (Italy)** 🇮🇹  
+- 📍 Based in **Cosenza (Italy)** 🇮🇹
+
+[![Download CV](https://img.shields.io/badge/Download-Curriculum_Vitae_PDF-2b6cb0?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./CV_Valeria_Parise.pdf)
+
+
   <br>
 
   <!--
