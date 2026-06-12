@@ -9,6 +9,14 @@
   <a href="https://www.linkedin.com/in/valeria-parise-7a90/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"/></a>
   <a href="mailto:parisevaleria.dev@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"/></a>
 
+
+---
+
+## 📄 Curriculum Vitae
+
+[⬇️ Clicca qui per scaricare il mio CV aggiornato (PDF)](./CV_Valeria_Parise.pdf)
+
+---
   ---
 
 ## 📄 Curriculum Vitae
