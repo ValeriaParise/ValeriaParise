@@ -73,9 +73,6 @@ Un modello di Machine Learning classico focalizzato sulla gestione di dataset re
 
 </div>
 <br>
----
 
 <h3 align="center">Thanks for visiting! Let's connect and build something amazing together. 🚀</h3>
 <br>
-
-
