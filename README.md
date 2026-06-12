@@ -63,6 +63,7 @@ Un modello di Machine Learning classico focalizzato sulla gestione di dataset re
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
+
 <br>
 <!-- <h2 align="left">  🤝🏻 Connect with me</h2> -->
 <div align="center">
@@ -72,6 +73,7 @@ Un modello di Machine Learning classico focalizzato sulla gestione di dataset re
 <a href = "https://msng.link/o?valeriap_07=tg" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="30" alt="telegram logo"/></a>
 
 </div>
+
 <br>
 
 <h3 align="center">Thanks for visiting! Let's connect and build something amazing together. 🚀</h3>
