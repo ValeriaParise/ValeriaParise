@@ -11,33 +11,7 @@
 </p>
 
 
-<h2 align = "left"> 🧠 What I'm Learning </h2>
-
-- Full-stack development fundamentals  
-
-- Object-oriented programming with C#
-  
-- Web technologies (HTML, CSS, JavaScript)
-   
-- Backend development with Java
-  
-- Databases and SQL
-  
-<br>
-
-
-<!--
-<br>
-<h2 align ="left"> 💼 Projects </h2>
-
-<br>
--->
-
-
-
-
 <h2 align="left">⭐️ About me</h2>
-
 
 - 🎓 **Background:** Degree in **Physics of Materials** – which trained my mind for complex problem-solving, advanced mathematics, and data analysis.
 - 🚀 **Education:** Graduated from **ITS Academy Cadmo (Developer 4.0)** and completed the intensive Java Backend course at **Develhope**.
@@ -45,6 +19,28 @@
 - 📍 Based in **Cosenza (Italy)** 🇮🇹
 -   
   <br>
+
+  <!--
+<br>
+<h2 align ="left"> 💼 Projects </h2>
+### 🏋️‍♂️ [Enterprise Gym App: Monolith to Microservices](https://github.com/ValeriaParise) *(Sostituisci questo link con il link reale del repo)*
+Un'applicazione enterprise completa per la gestione di una palestra, evoluta da un'architettura monolitica a un sistema a microservizi scalabile.
+* **Core Features:** Gestione tesseramenti, iscrizione ai corsi, filtri dinamici avanzati tramite **Specification Pattern**, sistema di caching per ottimizzare le performance.
+* **Evolution:** Scomposizione in microservizi (User Service, Booking Service, Notification Service) con comunicazione asincrona tramite Message Broker.
+* **Tech Stack:** Java, Spring Boot / C#, Docker, SQL.
+
+### 🧠 [Medical Semantic Segmentation on BUSI Dataset](https://github.com/ValeriaParise) *(Sostituisci questo link con il link reale del repo)*
+Un progetto di Deep Learning applicato all'imaging biomedico per l'individuazione di lesioni nei tessuti.
+* **Core Features:** Segmentazione semantica di immagini ecografiche mammarie (BUSI dataset) utilizzando architetture di rete neurale convoluzionale (U-Net). Ottimizzazione delle metriche di performance (Dice Coefficient, IoU).
+* **Tech Stack:** Python, Deep Learning Frameworks (PyTorch/TensorFlow).
+
+### 📊 [Predictive Machine Learning Project (Coming Soon)](https://github.com/ValeriaParise)
+Un modello di Machine Learning classico focalizzato sulla gestione di dataset reali e sbilanciati, industrializzato tramite API pronte per la produzione.
+* **Tech Stack:** Python, Scikit-Learn, FastAPI, Docker.
+
+---
+<br>
+-->
 
 <h2 align="left"> 💻 Tech Stack & Tools:</h2>
 
@@ -68,8 +64,6 @@
 
 ---
 <br>
-
-
 <!-- <h2 align="left">  🤝🏻 Connect with me</h2> -->
 <div align="center">
 <a href="https://www.linkedin.com/in/parisevaleria/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo"/></a>
@@ -79,14 +73,6 @@
 
 </div>
 <br>
-
-
-## 📈 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=valeriaparise&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en" alt="Valeria's GitHub Stats" />
-</p>
-
 ---
 
 <h3 align="center">Thanks for visiting! Let's connect and build something amazing together. 🚀</h3>
