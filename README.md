@@ -19,10 +19,10 @@
 - 💡 **Focus:** Building scalable backend architectures, designing efficient microservices, and exploring the worlds of Machine Learning & Deep Learning models for real-world impact.
 - 📍 Based in **Cosenza (Italy)** 🇮🇹
 
-[Il mio CV (PDF)](./CV_Valeria_Parise.pdf)
+[Download my CV (PDF)](./CV_Valeria_Parise.pdf)
 
-[![Download CV](https://img.shields.io/badge/Download-Curriculum_Vitae_PDF-2b6cb0?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./CV_Valeria_Parise.pdf)
-
+<!--[![Download CV](https://img.shields.io/badge/Download-Curriculum_Vitae_PDF-2b6cb0?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./CV_Valeria_Parise.pdf)
+-->
 
   <br>
 
